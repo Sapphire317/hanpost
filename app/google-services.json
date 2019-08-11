@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "319524658896",
+    "firebase_url": "https://hanpost-4d0df.firebaseio.com",
+    "project_id": "hanpost-4d0df",
+    "storage_bucket": "hanpost-4d0df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319524658896:android:9c77483e9b708e30",
+        "android_client_info": {
+          "package_name": "com.example.dannyseo.hanpost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319524658896-dvrnhi7met47t8ualbukq9q95quc3it7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dannyseo.hanpost",
+            "certificate_hash": "08353e042a6d3b272a95f3b548f884be66e41f11"
+          }
+        },
+        {
+          "client_id": "319524658896-rqbjippibiqdd90l7om6df94t04t5pov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdEKJNDdYeNW1BiTV0u42p1-INZkIgIWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319524658896-rqbjippibiqdd90l7om6df94t04t5pov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

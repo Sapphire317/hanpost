@@ -1,0 +1,3 @@
+/Users/dannyseo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/HanPost/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/edit_cache.dir
+/Users/dannyseo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/HanPost/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/rebuild_cache.dir
+/Users/dannyseo/AndroidStudioProjects/android-vision/visionSamples/ocr-codelab/HanPost/app/.externalNativeBuild/cmake/release/x86/CMakeFiles/native-lib.dir
